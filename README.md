@@ -1,3 +1,4 @@
+[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)](https://github.com/jsanirudh/jsanirudh)
 <h1 align="center">Hi 👋, I'm Anirudh Jayamangala Srinivas</h1>
 <h3 align="center">A passionate frontend developer from Arizona State University</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
