@@ -1,6 +1,6 @@
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://github.com/jsanirudh/jsanirudh)
 <h1 align="center">Hi 👋, I'm Anirudh Jayamangala Srinivas</h1>
-<h3 align="center">A passionate frontend developer from Arizona State University</h3>
+<h3 align="center">A passionate Software developer from Arizona State University</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsanirudh&label=Profile%20views&color=0e75b6&style=flat" alt="jsanirudh" /> </p>
