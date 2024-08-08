@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anirudh_j_s" target="blank"><img src="https://img.shields.io/twitter/follow/anirudh_j_s?logo=twitter&style=for-the-badge" alt="anirudh_j_s" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, React Native**
+- 🌱 I’m currently learning **AWS, React Native **
 
 - 📫 How to reach me **jsanirudh1998@gmail.com**
 
